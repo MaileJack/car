@@ -2,6 +2,6 @@
 | name |   student ID | github account | Email             |
 | 仇伟 |   5140309570 | cjqw           | 2462457751@qq.com |
 | 盛丰 | 515071910030 | sf19970624     |2011157946@qq.com                  |
-|      |              |                |                   |
+| 陈文豪| 515021910618 |     MaileJack  |1973288610@qq.com       |
 * Tasks
 FIXME
